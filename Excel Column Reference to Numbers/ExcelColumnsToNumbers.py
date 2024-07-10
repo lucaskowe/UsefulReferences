@@ -46,4 +46,4 @@ def ExcelColumnsToCSV(csvFile):
 
 print(ExcelColumns())
 print(ExcelColumnsWithNumbers())
-ExcelColumnsToCSV("ExcelColumns.csv")
+ExcelColumnsToCSV("ExcelColumnsToNumbers.csv")
